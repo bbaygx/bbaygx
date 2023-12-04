@@ -29,8 +29,8 @@
 <br />
 
  <div style="display:flex; gap:1rem; align-items:center;">
-  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
-
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+          
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
